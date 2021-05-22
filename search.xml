@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Combinatorial Network Optimization With Unknown Variables:Multi-Armed Bandits With Linear Rewards and Individual Observations</title>
+      <link href="2021/05/12/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB4/"/>
+      <url>2021/05/12/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB4/</url>
+      
+        <content type="html"><![CDATA[<h1>没见过的新词汇</h1><p>spanning tree：生成树</p><p>the mapping of A to B：A到B的映射</p><p>exponentially：以指数方式的</p><p>stochastic：随机的</p><p>combinatorial optimization：组合优化</p><p>i.i.d：独立同分布</p><h1>文章内容</h1><p>本文主要讲解CMAB</p><p>奖赏的表达：有N个不知道均值的随机变量（独立同分布），每次都可以选择一组包含多个特定的随机变量，这取决于与所选变量相关的权重的约束。观察选择的随机变量，将这些被选择的变量的线性加权组合作为回报。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Learning-Based Optimization of Cache Content in a Small Cell Base Station</title>
+      <link href="2021/05/08/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB3/"/>
+      <url>2021/05/08/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB3/</url>
+      
+        <content type="html"><![CDATA[<p>本文链接如下：<a href="https://ieeexplore.ieee.org/document/6883600">论文3</a></p><h1>little tips</h1><p>sBS：small BSs</p><p>CC：congtent controller</p><p>BS：base station</p><p>QoE：the quality of experience</p><p>SPO problem：single-period optimization problem</p><p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msubsup><mi>d</mi><mi>f</mi><mi>t</mi></msubsup></mrow><annotation encoding="application/x-tex">d_f^t</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.2127719999999997em;vertical-align:-0.4192159999999999em;"></span><span class="mord"><span class="mord mathnormal">d</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.7935559999999999em;"><span style="top:-2.4168920000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight" style="margin-right:0.10764em;">f</span></span></span><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">t</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.4192159999999999em;"><span></span></span></span></span></span></span></span></span></span>表示t时刻第f个文件的即时需求量</p><p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>S</mi><mi>f</mi></msub></mrow><annotation encoding="application/x-tex">S_f</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.969438em;vertical-align:-0.286108em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.05764em;">S</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3361079999999999em;"><span style="top:-2.5500000000000003em;margin-left:-0.05764em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight" style="margin-right:0.10764em;">f</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.286108em;"><span></span></span></span></span></span></span></span></span></span>表示第f个文件的单个奖赏值</p><p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msubsup><mi>r</mi><mi>f</mi><mi>t</mi></msubsup></mrow><annotation encoding="application/x-tex">r_f^t</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.2127719999999997em;vertical-align:-0.4192159999999999em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.02778em;">r</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.7935559999999999em;"><span style="top:-2.4168920000000003em;margin-left:-0.02778em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight" style="margin-right:0.10764em;">f</span></span></span><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">t</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.4192159999999999em;"><span></span></span></span></span></span></span></span></span></span>表示文件f的实际总奖赏值（<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msubsup><mi>r</mi><mi>f</mi><mi>t</mi></msubsup></mrow><annotation encoding="application/x-tex">r_f^t</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.2127719999999997em;vertical-align:-0.4192159999999999em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.02778em;">r</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.7935559999999999em;"><span style="top:-2.4168920000000003em;margin-left:-0.02778em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight" style="margin-right:0.10764em;">f</span></span></span><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">t</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.4192159999999999em;"><span></span></span></span></span></span></span></span></span></span>=<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msubsup><mi>d</mi><mi>f</mi><mi>t</mi></msubsup></mrow><annotation encoding="application/x-tex">d_f^t</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.2127719999999997em;vertical-align:-0.4192159999999999em;"></span><span class="mord"><span class="mord mathnormal">d</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.7935559999999999em;"><span style="top:-2.4168920000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight" style="margin-right:0.10764em;">f</span></span></span><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">t</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.4192159999999999em;"><span></span></span></span></span></span></span></span></span></span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>S</mi><mi>f</mi></msub></mrow><annotation encoding="application/x-tex">S_f</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.969438em;vertical-align:-0.286108em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.05764em;">S</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3361079999999999em;"><span style="top:-2.5500000000000003em;margin-left:-0.05764em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight" style="margin-right:0.10764em;">f</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.286108em;"><span></span></span></span></span></span></span></span></span></span>）</p><p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>T</mi><mi>f</mi></msub></mrow><annotation encoding="application/x-tex">T_f</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.969438em;vertical-align:-0.286108em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.13889em;">T</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3361079999999999em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight" style="margin-right:0.10764em;">f</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.286108em;"><span></span></span></span></span></span></span></span></span></span>表示文件f被选中的次数</p><p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">Θ</mi></mrow><annotation encoding="application/x-tex">\Theta</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord">Θ</span></span></span></span>表示流行度概况</p><p>U表示sBS用户的数量</p><p>M表示缓存内存大小</p><p>F表示系统中文件的总数</p><p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>γ</mi></mrow><annotation encoding="application/x-tex">\gamma</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.19444em;"></span><span class="mord mathnormal" style="margin-right:0.05556em;">γ</span></span></span></span>表示齐夫分布的参数</p><h1>一些扫盲的知识点</h1><p>Skewed distribution（偏态分布）</p><p>长尾向右侧延伸为正偏态分布（右偏态分布）</p><img src="https://i.loli.net/2021/05/09/E8ltBhnJW6TSVrq.png"  /><p>即：峰左移，右偏，正偏</p><h1>文章内容</h1><h2 id="文章引用">文章引用</h2><p>在<a href="https://ieeexplore.ieee.org/document/5461964">Distributed Caching Algorithms for Content Distribution Networks | IEEE Conference Publication | IEEE Xplore</a>这篇文章中，讨论了由多个叶节点和一个父缓存节点组成的缓存簇，用户请求文件的时候，文件会连接到一个叶缓存节点，直接从叶缓存节点或者缓存节点（主）直接获取，也可以从核心网络获取。并且研究了在缓存节点中最优地放置内容以最小化总带宽消耗的问题。</p><p>在<a href="https://ieeexplore.ieee.org/document/6136831">Collaborative Caching in Wireless Video Streaming Through Resource Auctions | IEEE Journals &amp; Magazine | IEEE Xplore</a>这篇文章中，讨论了在一个密集无线网络中多个缓存同时存在的缓存问题，每次缓存的目标是最大化连接到它的用户的QoE，通过分配一些可用带宽为用户提供服务，并以拍卖游戏的方式与其他缓存交易剩余带宽。</p><p>在<a href="https://ieeexplore.ieee.org/document/6195469">FemtoCaching: Wireless video content delivery through distributed caching helpers | IEEE Conference Publication | IEEE Xplore</a>这篇文章中，讨论了一个受回程约束的小型小区网络中的缓存问题，在这个网络中，用户可以连接到几个sBS，并从提供最小延迟的sBS获取文件，该问题是NP-hard问题。</p><p>在5这篇文章中，讨论了用户在sBS无线网络中随机移动，在每个时隙，用户都可以连接一个单独的sBS，并且从sBS缓存中只下载内容的一部分。在sBSs中的内容缓存编码是最优的，以便获取完整内容文件的用户数量是最大化的。</p><p>（以上都是假设文件瞬时需求和文件流行度是未知的）本文还假设在一个短时间跨度内（比如一天），文件流行度是固定的。</p><p>在12中，讲了CMAB问题，（缓存中所有文件的单个瞬时需求都被观察到了，即观察了每个文件的单个奖励）</p><p>在13中，讲了linear MAB问题（只观察聚合后的整体奖励）</p><h2 id="本文做出的贡献">本文做出的贡献</h2><ul><li><p>在可用内容流行度未知，而缓存中对文件的瞬时需求会定期观察的情况下，解决了sBS中最佳内容放置问题</p></li><li><p>将缓存放置问题看作MAB问题，提出了三种算法有效地学习了流行度概况并且缓存了最佳的文件</p></li><li><p>我们提供的数值结果说明了系统参数对我们的算法性能的影响。</p></li><li><p>我们用数字来衡量由于缺乏流行度概况而造成的损失。</p></li><li><p>当流行度概况已知时，该问题就变成众所周知的背包问题，其解的计算是困难的。基于背包问题线性松弛的结构性质，我们提出了一种低复杂度近似算法来解决背包问题。</p></li></ul><h2 id="系统模型及算法">系统模型及算法</h2><h3 id="模型">模型</h3><p>sBS缓存容量为M个单位，CC可以在其中存储自己选择的文件，时间被分为时段，每个时段中都会有一个用户请求阶段以及一个缓存放置阶段。在用户请求阶段，sBS覆盖区域中的用户请求高数据率内容。如果文件位于sBS缓存中，则将向sBS发送请求，该文件将随时下载，而不会对宏蜂窝网络造成任何损失；否则请求将被发送到宏BS。在缓存放置阶段(我们认为这个阶段的持续时间可以忽略不计)，CC会根据迄今为止下载的内容刷新缓存内容，并且sBS会向其用户广播有关缓存内容的更新信息。（CC只观察由sBS服务的请求。）</p><h3 id="算法">算法</h3><ul><li><p>CUCB</p><p><img src="https://i.loli.net/2021/05/09/XoSeznaAOJH6ihk.png" alt=""></p></li><li><p>MCUCB：modified CUCB</p><p><img src="https://i.loli.net/2021/05/09/maorqwE3fCLUY2Z.png" alt=""></p><p>当流行度分布均匀时，<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>γ</mi></mrow><annotation encoding="application/x-tex">\gamma</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.19444em;"></span><span class="mord mathnormal" style="margin-right:0.05556em;">γ</span></span></span></span>会很小</p></li><li><p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>ϵ</mi></mrow><annotation encoding="application/x-tex">\epsilon</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathnormal">ϵ</span></span></span></span>-greedy</p></li><li><p>IUB（informed upper bound）：为所有MAB算法提供了一个性能上界</p></li><li><p>LRU（the least recently used）：抛弃最近最少用的文件并缓存下用户的请求文件。</p></li><li><p>Myopic：在每个替换阶段，保留至少被请求过一次的所有文件直到最后一个用户请求阶段，并随机替换其余的文件。</p></li><li><p>random：随机缓存文件直到缓存内存满为止</p></li></ul><h2 id="性能对比">性能对比</h2><p>本文中所有算法的性能是通过用户可以从sBS缓存内存中获取的数据的百分比来评估的。</p><p>当流行度分布很均匀时，所有的算法性能都很接近5%，因为需求均匀时缓存内容的组成是无关紧要的。</p><img src="https://i.loli.net/2021/05/09/DBiR4dNKGjFYCcy.png" alt="image-20210509175128398" style="zoom:50%;" /><p>性能是与缓存大小有关的。random算法与缓存大小成正比关系，并且MCUCB性能比<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>ϵ</mi></mrow><annotation encoding="application/x-tex">\epsilon</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathnormal">ϵ</span></span></span></span>-greedy要好</p><img src="https://i.loli.net/2021/05/09/QTPgrlcNYebiVRK.png" alt="image-20210509175602669" style="zoom:50%;" /><p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>ϵ</mi></mrow><annotation encoding="application/x-tex">\epsilon</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathnormal">ϵ</span></span></span></span>-greedy算法非常精确地估计了最好文件的流行度，而那些不太流行的文件的流行度是粗略估计的。所以流行度越偏移，<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>ϵ</mi></mrow><annotation encoding="application/x-tex">\epsilon</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathnormal">ϵ</span></span></span></span>-greedy算法性能越好。</p><p>MCUCB算法和<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>ϵ</mi></mrow><annotation encoding="application/x-tex">\epsilon</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathnormal">ϵ</span></span></span></span>-greedy都依赖于观察用户的瞬时需求，如果sBS用户数量很低，则观察的准确率就会很低，并且两种算法学习得都会很慢。此时两种算法的性能就会降低5%，而当sBS有超过13个用户的时候，算法性能会保持稳定。</p><img src="https://i.loli.net/2021/05/09/BQES9gxk6CUmhnb.png" alt="image-20210509185047525" style="zoom:50%;" /><p>文件数量也会影响性能。当文件数量F偏小的时候，由于每次缓存内存会缓存约5%的文件，所以有一些流行文件不适合缓存，所以性能都会降低约5%</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 论文记录 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 学习 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>更新</title>
+      <link href="2021/05/07/%E6%9B%B4%E6%96%B0blog/"/>
+      <url>2021/05/07/%E6%9B%B4%E6%96%B0blog/</url>
+      
+        <content type="html"><![CDATA[<h2 id="更新butterfly">更新butterfly</h2><p>在博客根目录下： npm update hexo-theme-butterfly</p><h2 id="更新douban">更新douban</h2><p>npm i hexo-butterfly-douban --update --save</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Git </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>更新</title>
+      <link href="2021/05/07/%E9%87%8D%E6%96%B0%E6%90%AD%E5%BB%BAblog/"/>
+      <url>2021/05/07/%E9%87%8D%E6%96%B0%E6%90%AD%E5%BB%BAblog/</url>
+      
+        <content type="html"><![CDATA[<h2 id="更新butterfly">更新butterfly</h2><h1>按顺序运行命令</h1><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install -g hexo-cli</span><br></pre></td></tr></table></figure><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo init yymblog</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm i hexo-theme-butterfly</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-renderer-pug hexo-renderer-stylus --save</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install --save hexo-tag-aplayer</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-butterfly-douban --save</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm i --save hexo-wordcount</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm i --save hexo-generator-search</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm un hexo-renderer-marked --save</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm i hexo-renderer-markdown-it --save</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install @neilsustc/markdown-it-katex --save</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm i --save hexo-history-calendar</span><br></pre></td></tr></table></figure><p>所有下完后</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Git </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>A Learning-Based Approach to Caching in Heterogenous Small Cell Networks</title>
+      <link href="2021/05/06/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB2/"/>
+      <url>2021/05/06/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB2/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 论文记录 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 学习 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Cooperative Caching and Transmission in CoMP-Integrated Cellular Networks Using Reinforcement Learning</title>
+      <link href="2021/05/04/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB1/"/>
+      <url>2021/05/04/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB1/</url>
+      
+        <content type="html"><![CDATA[<h1>缩写</h1><p>MDP：Markov decision process</p><p>RL-based：reinforcement learning</p><p>CoMP：Coordinate Mutipoint</p><p>MNC：mobile network caching</p><p>BSs：base stations</p><p>MTs：mobile terminals</p><p>LRU：the least recently used</p><p>MPC：the most popular content</p><p>ST：single transmission</p><p>CICN：CoMP-intergrated cellular network</p><p>JT：joint transmission</p><h1>内容</h1><p>在CICNs中MNC和CoMP的结合得不是很好</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 论文记录 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 学习 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
