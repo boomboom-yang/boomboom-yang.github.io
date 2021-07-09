@@ -4,25 +4,6 @@
   
     
     <entry>
-      <title>基础代码</title>
-      <link href="2021/07/09/%E5%9F%BA%E7%A1%80%E4%BB%A3%E7%A0%81/"/>
-      <url>2021/07/09/%E5%9F%BA%E7%A1%80%E4%BB%A3%E7%A0%81/</url>
-      
-        <content type="html"><![CDATA[<h1>新建文章</h1><p>hexo  new **</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> blog hexo </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Content Placement for Wireless Cooperative Caching Helpers</title>
       <link href="2021/07/09/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB6/"/>
       <url>2021/07/09/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB6/</url>
@@ -124,10 +105,10 @@
     
     <entry>
       <title>更新</title>
-      <link href="2021/05/07/%E6%9B%B4%E6%96%B0blog/"/>
-      <url>2021/05/07/%E6%9B%B4%E6%96%B0blog/</url>
+      <link href="2021/05/07/Blog/"/>
+      <url>2021/05/07/Blog/</url>
       
-        <content type="html"><![CDATA[<h2 id="更新butterfly">更新butterfly</h2><p>在博客根目录下： npm update hexo-theme-butterfly</p><h2 id="更新douban">更新douban</h2><p>npm i hexo-butterfly-douban --update --save</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="更新butterfly">更新butterfly</h2><p>在博客根目录下： npm update hexo-theme-butterfly</p><h2 id="更新douban">更新douban</h2><p>npm i hexo-butterfly-douban --update --save</p><h1>新建文章</h1><p>hexo  new **</p>]]></content>
       
       
       <categories>
