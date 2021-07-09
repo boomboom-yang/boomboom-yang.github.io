@@ -127,7 +127,7 @@
       <link href="2021/05/07/%E6%9B%B4%E6%96%B0blog/"/>
       <url>2021/05/07/%E6%9B%B4%E6%96%B0blog/</url>
       
-        <content type="html"><![CDATA[<h2 id="更新butterfly">更新butterfly</h2><p>在博客根目录下： npm update hexo-theme-butterfly</p><h2 id="更新douban">更新douban</h2><p>npm i hexo-butterfly-douban --update --save</p><h1>基础</h1><h2 id="新建文章">新建文章</h2><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo <span class="keyword">new</span> 文章名</span><br></pre></td></tr></table></figure>]]></content>
+        <content type="html"><![CDATA[<h2 id="更新butterfly">更新butterfly</h2><p>在博客根目录下： npm update hexo-theme-butterfly</p><h2 id="更新douban">更新douban</h2><p>npm i hexo-butterfly-douban --update --save</p>]]></content>
       
       
       <categories>
