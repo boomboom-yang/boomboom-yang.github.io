@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>JAVA——力扣刷题</title>
+      <link href="2022/06/20/JAVA%E2%80%94%E2%80%94%E5%8A%9B%E6%89%A3%E5%88%B7%E9%A2%98/"/>
+      <url>2022/06/20/JAVA%E2%80%94%E2%80%94%E5%8A%9B%E6%89%A3%E5%88%B7%E9%A2%98/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> -学习 -JAVA </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> JAVA刷题 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Java学习</title>
       <link href="2022/03/17/java/"/>
       <url>2022/03/17/java/</url>
@@ -13,14 +38,14 @@
       
       <categories>
           
-          <category> JAVA </category>
+          <category> -学习 -JAVA </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 学习 </tag>
+            <tag> JAVA基础知识 </tag>
             
         </tags>
       
@@ -38,14 +63,14 @@
       
       <categories>
           
-          <category> python </category>
+          <category> -学习 -PYTHON -爬虫 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 学习 </tag>
+            <tag> 爬虫基础知识 </tag>
             
         </tags>
       
@@ -54,63 +79,25 @@
     
     
     <entry>
-      <title>MATLAB</title>
-      <link href="2021/11/09/MATLAB/"/>
-      <url>2021/11/09/MATLAB/</url>
+      <title>MATLAB学习</title>
+      <link href="2021/11/09/MATLAB%E5%AD%A6%E4%B9%A0/"/>
+      <url>2021/11/09/MATLAB%E5%AD%A6%E4%B9%A0/</url>
       
         <content type="html"><![CDATA[<p>MATLAB学习记录</p><h1>11.9</h1><p>who：可看见所有变量名字</p><p>whos：可看见变量类型等更多信息</p><p>NaN：not a number</p><p>iskeyword：固定的名字，不能混乱</p><p>clc：清除所有命令行</p><p>clear：清除所有变量；clear k：清除变量k</p><p>format：<img src="https://i.loli.net/2021/11/09/eVE7fuzNCLSGy5A.png" alt="image-20211109231115572" style="zoom: 50%;" /></p><p>加分号：不会显示结果，不加，则会显示一遍结果</p><p>行向量：a = [1 2 3 4]</p><p>列向量：b = [1；2；3；4]</p><p>矩阵：A = [1 2 3;4 5 6;7 8 9]</p><p>区分：<img src="https://i.loli.net/2021/11/09/E34ysLrHjqFPpOi.png" alt="image-20211109235717470"></p>]]></content>
       
       
       <categories>
           
-          <category> matlab </category>
+          <category> -学习 -MATLAB </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 学习 </tag>
+            <tag> MATLAB基础知识 </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>股票学习记录</title>
-      <link href="2021/09/09/%E8%82%A1%E7%A5%A8%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
-      <url>2021/09/09/%E8%82%A1%E7%A5%A8%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/</url>
-      
-        <content type="html"><![CDATA[<h1>9.9</h1><h2 id="均线粘合">均线粘合</h2><p>选择5日均线、10日均线、30日均线判断（以20日均线替代10日或30日均线亦可）：</p><ol><li>在两个月内三条均线的粘合应视为无效粘合，股价突破时机并不成熟，只有两个月以上的整理时间，待三条均线粘合时才是介入良机。</li><li>5日、10日、30日均线粘合时，5日、10日均线应调头向上，并与30日均线形成金叉，否则不介入。</li><li>换手率是判断突破时机的辅助指标。在箱体或平台整理区间内换手率至少应达到80%，换手率达到100%以上则突破成功率更大。</li><li>有些主力在5日、10日、30日均线三条均线粘合时，先向下突破，造成出货假象构筑空头陷阱，翻身再向上突破连创新高。</li></ol><p>当长期、中期、短期均线粘合的形态出现时，后市的方向选择一般会沿着中长期均线之前的运作方向继续运行。</p><ol><li>如果之前的走势中，长期均线是向下运行的，则均线的粘合主要是由于中短期均线的反弹形成，这时候出现均线粘合，说明中短期均线已经反弹了一定高度，后市如果没有放量突破长期均线。股价中短期可能受压回落，波段走弱。</li><li>如果之前的走势中，长期均线上向上运行的，则均线系统的粘合主要是由于中短期均线的回调形成，这时候出现均线粘合，说明中短线已经充分调整，在获得长期均线强支撑后将出现反弹走势，波段走强概率大。</li></ol><h2 id="金叉死叉">金叉死叉</h2><p>短期均线如MA5、MA10从下往上突破中长期均线如MA30、MA60</p><p>【黄金交叉】</p><p><img src="https://i.loli.net/2021/09/09/r8WgQzqKBkN3LD7.jpg" alt=""></p><p>表现形式为短期均线如MA5、MA10从下往上突破中长期均线如MA30、MA60等</p><p>黄金交叉是多方占据有利低位的表现，一旦个股出现黄金交叉，后市上涨空间非常可观，黄金交叉点形成之际就是最佳的入场时机。</p><p>【死亡金叉】</p><p><img src="https://i.loli.net/2021/09/09/45MtvCouh8Odiw6.jpg" alt="http://img.mp.itc.cn/upload/20160811/98c5822e5efe430d85b6eb28aee7156c.jpg"></p><p>表现形式为短线均线从上往下突破中长期均线，从而产生的交叉现象称为死亡交叉</p><p>死亡交叉形态的出现，常预示着空头将逐步占领市场，股价即将开启下跌模式，此时应毫不犹豫清仓离场。</p><h1>半小时漫画</h1><h1>指标1：MACD</h1><h2 id="MACD金叉死叉">MACD金叉死叉</h2><p>零上金叉：市场整体处于多头市场，往往意味着新一波大涨势开始</p><img src="https://i.loli.net/2021/10/07/bry2gHUTIihP6Fc.png" alt="image-20211007234951307" style="zoom: 67%;" /><p>零下金叉：往往是空头市场的短暂的反弹，所以稳定度和可靠性都较低，力度也不大</p><img src="https://i.loli.net/2021/10/07/bry2gHUTIihP6Fc.png" style="zoom:67%;" /><p>零上死叉：往往是多头市场中的一个回调，可靠性不高，且调整幅度不会太大</p><img src="https://i.loli.net/2021/10/07/YNmdgajtSTBZlbk.png" alt="image-20211007235126034" style="zoom:67%;" /><p>零下死叉：往往意味着新一波的下跌开始，且可靠性极高，下跌幅度也较大</p><img src="https://i.loli.net/2021/10/07/3SlmeN1sX2d5w6J.png" alt="image-20211007235210335" style="zoom:67%;" /><h2 id="一些技术">一些技术</h2><ul><li><p>MACD抄底术：1.经过一波下跌后反弹</p><p>​                           2.股价再次下跌创新低</p><img src="https://i.loli.net/2021/10/08/rg7Ce2itxwQcMnG.png" alt="image-20211008000130847" style="zoom: 67%;" /><p>​                           3.MACD的DIFF线低点不创新低</p><p>​                           4.MACD金叉确认底背离即是买入信号</p><img src="https://i.loli.net/2021/10/08/uHMwO34dUBKEonR.png" alt="image-20211008000158016" style="zoom:67%;" /></li><li><p>MACD抓主升：1.经过一波上涨后调整</p><p>​                           2.股价调整不破前低</p><img src="https://i.loli.net/2021/10/08/teJgELYBGHRPsMd.png" alt="image-20211008000418811" style="zoom:67%;" /><p>​                           3.MACD在略高于零轴线位置金叉</p><p>​                           4.出中阳K线即买入信号</p><img src="https://i.loli.net/2021/10/08/2MiatEyXRkCz7Zb.png" alt="image-20211008000437071" style="zoom:67%;" /></li><li><p>MACD逃顶术：1.经过一波上涨后调整</p><p>​                           2.股价第二波上涨后创新高</p><img src="https://i.loli.net/2021/10/08/aNOf9ZsD4SBVTvp.png" alt="image-20211008000635931" style="zoom:67%;" /><p>​                           3.MACD的DIFF线高点未创新高</p><p>​                           4.MACD死叉确认顶背离即卖出信号</p></li></ul><img src="https://i.loli.net/2021/10/08/vu8bUhBMCGYqkDa.png" alt="image-20211008000649114" style="zoom:67%;" /><h1>指标2：KDJ</h1><p>变换范围：K和D取值范围是0-100</p><p>速度：J最快，其次是K，最慢的是D</p><p>安全性：D最靠谱，其次是K，最不靠谱的是J</p><p>总的来说：K,D,J三条数值在20以下为超卖区，关注伺机买入，在80以上为超买区，关注伺机卖出，在20-80之间为徘徊区，坐观全场即可</p><img src="https://i.loli.net/2021/10/08/TuEegwsWBxI3Ytk.png" alt="image-20211008141513393" style="zoom: 80%;" /><h2 id="KDJ金叉死叉">KDJ金叉死叉</h2><p>当K线从D线的下方向上穿越D线，同时J线从K,D线的下方向上穿越K,D线，形成KDJ金叉，是股价转强的信号</p><img src="https://i.loli.net/2021/10/08/A2GuejSZoibFfLv.png" alt="image-20211008142417970" style="zoom:80%;" /><p>若之前k值小于10，D值小于20，J值小于0，三线在超卖区形成金叉时，股价成功反弹可能性较高</p><img src="https://i.loli.net/2021/10/08/moVAuIh263nyTca.png" alt="image-20211008152203941" style="zoom: 80%;" /><p>当K线从D线上方向下穿越D线，同时J线从K,D线的上方向下穿越K,D线，形成KDJ死叉时，是股价转弱的信号</p><img src="https://i.loli.net/2021/10/08/BUaF2PnHdToYQLM.png" alt="image-20211008160422819" style="zoom:80%;" /><p>若之前K值大于90，D值大于80，J值大于100，三线在超买区形成死叉时，股价短期下跌的概率极高</p><img src="https://i.loli.net/2021/10/08/eAqMoVIYLSyNzHc.png" alt="image-20211008160655920" style="zoom:80%;" /><h2 id="KDJ背离">KDJ背离</h2><p>KDJ顶背离：预示股价短期上涨乏力，股价短期内极容易滞涨回落，为短期出局的信号</p><img src="https://i.loli.net/2021/10/08/vGPlcB1Lx6qykUE.png" alt="image-20211008170705400" style="zoom:80%;" /><p>KDJ底背离：当股价连续下跌并持续创新低，而KDJ并没有跟随创出新低的时候，形成KDJ底背离，预示股价短期下跌动能减弱，股价短期内极容易止跌反弹，是断线抢反弹择机买进的信号</p><img src="https://i.loli.net/2021/10/08/GfxytCQ1vZMFiL8.png" alt="image-20211008170913881" style="zoom:80%;" /><h2 id="KDJ钝化">KDJ钝化</h2><p>定义：股价在行情中大涨或暴跌，使指标出现黏连，让指标失去指导作用</p><h3 id="高位钝化">高位钝化</h3><p>在股价走势极强的单边上涨行情中，K值与D值均在80以上的超买区，J值大于100</p><p><img src="https://i.loli.net/2021/10/08/cRxibBn9U5tPmdK.png" alt="image-20211008214537915"></p><h3 id="低位钝化">低位钝化</h3><p>K值与D值同时在20以下的超卖区，J值在0以下，回归后KDJ金叉是抄底的最好时机</p><img src="https://i.loli.net/2021/10/08/SGILrTDoN1UavWn.png" alt="image-20211008230711798" style="zoom:80%;" /><img src="https://i.loli.net/2021/10/08/n7uFxjwI3VrMtl2.png" alt="image-20211008230918966" style="zoom:80%;" /><h2 id="MACD-KDJ双金叉选股">MACD+KDJ双金叉选股</h2><p>当KDJ出现金叉，并且都处于较低的值的时候，MACD绿柱缩量也即将出现拐点，即可判断此次KDJ为有效指导，为保险期间可在KDJ出现金叉后1-2日买入</p><img src="https://i.loli.net/2021/10/08/jFNZUwKbqPIxCWt.png" alt="image-20211008231345405" style="zoom: 80%;" /><img src="https://i.loli.net/2021/10/08/bSm9MnkZG8UEsLO.png" alt="image-20211008233347039" style="zoom:80%;" /><h2 id="MACD黄白线位于零轴线上方">MACD黄白线位于零轴线上方</h2><p>只做强势区域的KDJ金叉，一旦KDJ发出买入信号或者卖出信号，只要等到MACD有要金叉的趋势就可以买卖，不用等到MACD金叉时再买卖</p><h2 id="指标3：实战交易线">指标3：实战交易线</h2><h3 id="BOLL布林线指标">BOLL布林线指标</h3><p>由上、中、下三条轨线组成</p><p><img src="https://i.loli.net/2021/10/08/j5Epr1nedPFZ68H.png" alt="image-20211008234850088"></p><p>布林线的作用：</p><p>（1）布林线可以指示支撑和压力位，股价通道的上、下轨线可以显示股价安全运行的最高价位和最低价位</p><img src="https://i.loli.net/2021/10/08/pAlDafki64YbdHx.png" alt="image-20211008235235292" style="zoom:80%;" /><p>上中轨线起到压力作用，中下轨线起到了支撑作用</p><img src="https://i.loli.net/2021/10/08/wtvRPKlxysUWXeG.png" alt="image-20211008235848652" style="zoom:80%;" /><p>（2）布林线可以指示趋势，通道的中轨线之上为可操作趋势，中轨线之下为不建议操作的区域，强势股总在中、上轨线之间，弱势股总运行在中轨线下</p><p>（3）布林线可以显示超买、超卖。股价冲出上轨线将有回调，股价跌出下轨线将有反抽</p><img src="https://i.loli.net/2021/10/09/whqs6ubgyQAIBjG.png" alt="image-20211009000631427" style="zoom:80%;" /><p>（4）布林线可以选择方向，上下轨收口变窄隐藏着突变，开口越大说明风险越大</p><img src="https://i.loli.net/2021/10/09/m1djlEPbayoncgf.png" alt="image-20211009000820335" style="zoom:80%;" />]]></content>
-      
-      
-      <categories>
-          
-          <category> 股票 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 技巧 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>股票基础知识</title>
-      <link href="2021/08/02/%E8%82%A1%E7%A5%A8%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/"/>
-      <url>2021/08/02/%E8%82%A1%E7%A5%A8%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</url>
-      
-        <content type="html"><![CDATA[<h1>8.2  K线</h1><h2 id="基本组成">基本组成</h2><img src="https://i.loli.net/2021/08/02/bVJ2d5HSgh1wvi9.png" alt="image-20210802132147938" style="zoom:50%;" /><h2 id="两种K线">两种K线</h2><img src="https://i.loli.net/2021/08/02/aWuiI2QsqypJwAC.png" alt="image-20210802132250600" style="zoom:50%;" /><p>如果一段时间里蜡烛图的实体在加强，那么价格趋势也在加速变化，趋势在加强。</p><p>实体变小，说明当前趋势将结束，买卖双方之间的力量趋于平衡。</p><p>实体大小不变，说明趋势平稳。</p><h2 id="K线的类型">K线的类型</h2><img src="https://i.loli.net/2021/08/02/sx2QaROUb7GvdYL.png" alt="image-20210802132819377" style="zoom:50%;" /><img src="https://i.loli.net/2021/08/02/2Es8X7ZhqKilcMr.png" style="zoom:50%;" /><h2 id="K线的12种类型">K线的12种类型</h2><h3 id="①②">①②</h3><img src="https://i.loli.net/2021/08/02/P3k1pdfAuVZxnrK.png" alt="image-20210802144240253" style="zoom:50%;" /><h3 id="③④">③④</h3><img src="https://i.loli.net/2021/08/02/ShA2v51QiPuGemj.png" alt="image-20210802144349625" style="zoom:50%;" /><h3 id="⑤⑥">⑤⑥</h3><img src="https://i.loli.net/2021/08/02/4jQzwhfR1rFH6n2.png" alt="image-20210802144500177" style="zoom:50%;" /><h3 id="⑦⑧">⑦⑧</h3><img src="https://i.loli.net/2021/08/02/6jxnMtmSVe28wOT.png" alt="image-20210802144758079" style="zoom:50%;" /><h3 id="⑨">⑨</h3><img src="https://i.loli.net/2021/08/02/iu4NA3JMT9LdHpb.png" alt="image-20210802144855825" style="zoom:50%;" /><h3 id="⑩⑪">⑩⑪</h3><img src="https://i.loli.net/2021/08/02/mcHOfz6sErCX7g3.png" alt="image-20210802145847346" style="zoom:50%;" /><h3 id="⑫">⑫</h3><img src="https://i.loli.net/2021/08/02/3K1kSZc9b6pGmNz.png" alt="image-20210802145944789" style="zoom:50%;" /><h1>成交量</h1><p>指一个时间单位内对某向交易成交的数量</p><h2 id="缩量">缩量</h2><p>交易性变的一致性行为：</p><ol><li>上涨过程：只有人买，没有人卖</li><li>下跌过程中：只有人卖，没有人买</li></ol><h2 id="放量">放量</h2>]]></content>
-      
-      
       
     </entry>
     
@@ -126,14 +113,14 @@
       
       <categories>
           
-          <category> 强化学习 </category>
+          <category> -学习 -PYTHON -强化学习 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> MAB </tag>
+            <tag> 强化学习MAB </tag>
             
         </tags>
       
@@ -151,14 +138,14 @@
       
       <categories>
           
-          <category> 论文记录 </category>
+          <category> -学习 -论文阅读 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 学习 </tag>
+            <tag> 通信论文 </tag>
             
         </tags>
       
@@ -176,64 +163,14 @@
       
       <categories>
           
-          <category> 论文记录 </category>
+          <category> -学习 -论文阅读 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 学习 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Learning-Based Optimization of Cache Content in a Small Cell Base Station</title>
-      <link href="2021/05/08/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB1/"/>
-      <url>2021/05/08/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB1/</url>
-      
-        <content type="html"><![CDATA[<p>本文链接如下：<a href="https://ieeexplore.ieee.org/document/6883600">论文3</a></p><h1>little tips</h1><p>sBS：small BSs</p><p>CC：congtent controller</p><p>BS：base station</p><p>QoE：the quality of experience</p><p>SPO problem：single-period optimization problem</p><p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msubsup><mi>d</mi><mi>f</mi><mi>t</mi></msubsup></mrow><annotation encoding="application/x-tex">d_f^t</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.2127719999999997em;vertical-align:-0.4192159999999999em;"></span><span class="mord"><span class="mord mathnormal">d</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.7935559999999999em;"><span style="top:-2.4168920000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight" style="margin-right:0.10764em;">f</span></span></span><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">t</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.4192159999999999em;"><span></span></span></span></span></span></span></span></span></span>表示t时刻第f个文件的即时需求量</p><p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>S</mi><mi>f</mi></msub></mrow><annotation encoding="application/x-tex">S_f</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.969438em;vertical-align:-0.286108em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.05764em;">S</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3361079999999999em;"><span style="top:-2.5500000000000003em;margin-left:-0.05764em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight" style="margin-right:0.10764em;">f</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.286108em;"><span></span></span></span></span></span></span></span></span></span>表示第f个文件的单个奖赏值</p><p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msubsup><mi>r</mi><mi>f</mi><mi>t</mi></msubsup></mrow><annotation encoding="application/x-tex">r_f^t</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.2127719999999997em;vertical-align:-0.4192159999999999em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.02778em;">r</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.7935559999999999em;"><span style="top:-2.4168920000000003em;margin-left:-0.02778em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight" style="margin-right:0.10764em;">f</span></span></span><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">t</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.4192159999999999em;"><span></span></span></span></span></span></span></span></span></span>表示文件f的实际总奖赏值（<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msubsup><mi>r</mi><mi>f</mi><mi>t</mi></msubsup></mrow><annotation encoding="application/x-tex">r_f^t</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.2127719999999997em;vertical-align:-0.4192159999999999em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.02778em;">r</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.7935559999999999em;"><span style="top:-2.4168920000000003em;margin-left:-0.02778em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight" style="margin-right:0.10764em;">f</span></span></span><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">t</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.4192159999999999em;"><span></span></span></span></span></span></span></span></span></span>=<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msubsup><mi>d</mi><mi>f</mi><mi>t</mi></msubsup></mrow><annotation encoding="application/x-tex">d_f^t</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.2127719999999997em;vertical-align:-0.4192159999999999em;"></span><span class="mord"><span class="mord mathnormal">d</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.7935559999999999em;"><span style="top:-2.4168920000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight" style="margin-right:0.10764em;">f</span></span></span><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">t</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.4192159999999999em;"><span></span></span></span></span></span></span></span></span></span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>S</mi><mi>f</mi></msub></mrow><annotation encoding="application/x-tex">S_f</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.969438em;vertical-align:-0.286108em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.05764em;">S</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3361079999999999em;"><span style="top:-2.5500000000000003em;margin-left:-0.05764em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight" style="margin-right:0.10764em;">f</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.286108em;"><span></span></span></span></span></span></span></span></span></span>）</p><p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>T</mi><mi>f</mi></msub></mrow><annotation encoding="application/x-tex">T_f</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.969438em;vertical-align:-0.286108em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.13889em;">T</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3361079999999999em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight" style="margin-right:0.10764em;">f</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.286108em;"><span></span></span></span></span></span></span></span></span></span>表示文件f被选中的次数</p><p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">Θ</mi></mrow><annotation encoding="application/x-tex">\Theta</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord">Θ</span></span></span></span>表示流行度概况</p><p>U表示sBS用户的数量</p><p>M表示缓存内存大小</p><p>F表示系统中文件的总数</p><p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>γ</mi></mrow><annotation encoding="application/x-tex">\gamma</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.19444em;"></span><span class="mord mathnormal" style="margin-right:0.05556em;">γ</span></span></span></span>表示齐夫分布的参数</p><h1>一些扫盲的知识点</h1><p>Skewed distribution（偏态分布）</p><p>长尾向右侧延伸为正偏态分布（右偏态分布）</p><img src="https://i.loli.net/2021/05/09/E8ltBhnJW6TSVrq.png"  /><p>即：峰左移，右偏，正偏</p><h1>文章内容</h1><h2 id="文章引用">文章引用</h2><p>在<a href="https://ieeexplore.ieee.org/document/5461964">Distributed Caching Algorithms for Content Distribution Networks | IEEE Conference Publication | IEEE Xplore</a>这篇文章中，讨论了由多个叶节点和一个父缓存节点组成的缓存簇，用户请求文件的时候，文件会连接到一个叶缓存节点，直接从叶缓存节点或者缓存节点（主）直接获取，也可以从核心网络获取。并且研究了在缓存节点中最优地放置内容以最小化总带宽消耗的问题。</p><p>在<a href="https://ieeexplore.ieee.org/document/6136831">Collaborative Caching in Wireless Video Streaming Through Resource Auctions | IEEE Journals &amp; Magazine | IEEE Xplore</a>这篇文章中，讨论了在一个密集无线网络中多个缓存同时存在的缓存问题，每次缓存的目标是最大化连接到它的用户的QoE，通过分配一些可用带宽为用户提供服务，并以拍卖游戏的方式与其他缓存交易剩余带宽。</p><p>在<a href="https://ieeexplore.ieee.org/document/6195469">FemtoCaching: Wireless video content delivery through distributed caching helpers | IEEE Conference Publication | IEEE Xplore</a>这篇文章中，讨论了一个受回程约束的小型小区网络中的缓存问题，在这个网络中，用户可以连接到几个sBS，并从提供最小延迟的sBS获取文件，该问题是NP-hard问题。</p><p>在5这篇文章中，讨论了用户在sBS无线网络中随机移动，在每个时隙，用户都可以连接一个单独的sBS，并且从sBS缓存中只下载内容的一部分。在sBSs中的内容缓存编码是最优的，以便获取完整内容文件的用户数量是最大化的。</p><p>（以上都是假设文件瞬时需求和文件流行度是未知的）本文还假设在一个短时间跨度内（比如一天），文件流行度是固定的。</p><p>在12中，讲了CMAB问题，（缓存中所有文件的单个瞬时需求都被观察到了，即观察了每个文件的单个奖励）</p><p>在13中，讲了linear MAB问题（只观察聚合后的整体奖励）</p><h2 id="本文做出的贡献">本文做出的贡献</h2><ul><li><p>在可用内容流行度未知，而缓存中对文件的瞬时需求会定期观察的情况下，解决了sBS中最佳内容放置问题</p></li><li><p>将缓存放置问题看作MAB问题，提出了三种算法有效地学习了流行度概况并且缓存了最佳的文件</p></li><li><p>我们提供的数值结果说明了系统参数对我们的算法性能的影响。</p></li><li><p>我们用数字来衡量由于缺乏流行度概况而造成的损失。</p></li><li><p>当流行度概况已知时，该问题就变成众所周知的背包问题，其解的计算是困难的。基于背包问题线性松弛的结构性质，我们提出了一种低复杂度近似算法来解决背包问题。</p></li></ul><h2 id="系统模型及算法">系统模型及算法</h2><h3 id="模型">模型</h3><p>sBS缓存容量为M个单位，CC可以在其中存储自己选择的文件，时间被分为时段，每个时段中都会有一个用户请求阶段以及一个缓存放置阶段。在用户请求阶段，sBS覆盖区域中的用户请求高数据率内容。如果文件位于sBS缓存中，则将向sBS发送请求，该文件将随时下载，而不会对宏蜂窝网络造成任何损失；否则请求将被发送到宏BS。在缓存放置阶段(我们认为这个阶段的持续时间可以忽略不计)，CC会根据迄今为止下载的内容刷新缓存内容，并且sBS会向其用户广播有关缓存内容的更新信息。（CC只观察由sBS服务的请求。）</p><h3 id="算法">算法</h3><ul><li><p>CUCB</p><p><img src="https://i.loli.net/2021/05/09/XoSeznaAOJH6ihk.png" alt=""></p></li><li><p>MCUCB：modified CUCB</p><p><img src="https://i.loli.net/2021/05/09/maorqwE3fCLUY2Z.png" alt=""></p><p>当流行度分布均匀时，<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>γ</mi></mrow><annotation encoding="application/x-tex">\gamma</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.19444em;"></span><span class="mord mathnormal" style="margin-right:0.05556em;">γ</span></span></span></span>会很小</p></li><li><p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>ϵ</mi></mrow><annotation encoding="application/x-tex">\epsilon</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathnormal">ϵ</span></span></span></span>-greedy</p></li><li><p>IUB（informed upper bound）：为所有MAB算法提供了一个性能上界</p></li><li><p>LRU（the least recently used）：抛弃最近最少用的文件并缓存下用户的请求文件。</p></li><li><p>Myopic：在每个替换阶段，保留至少被请求过一次的所有文件直到最后一个用户请求阶段，并随机替换其余的文件。</p></li><li><p>random：随机缓存文件直到缓存内存满为止</p></li></ul><h2 id="性能对比">性能对比</h2><p>本文中所有算法的性能是通过用户可以从sBS缓存内存中获取的数据的百分比来评估的。</p><p>当流行度分布很均匀时，所有的算法性能都很接近5%，因为需求均匀时缓存内容的组成是无关紧要的。</p><img src="https://i.loli.net/2021/05/09/DBiR4dNKGjFYCcy.png" alt="image-20210509175128398" style="zoom:50%;" /><p>性能是与缓存大小有关的。random算法与缓存大小成正比关系，并且MCUCB性能比<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>ϵ</mi></mrow><annotation encoding="application/x-tex">\epsilon</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathnormal">ϵ</span></span></span></span>-greedy要好</p><img src="https://i.loli.net/2021/05/09/QTPgrlcNYebiVRK.png" alt="image-20210509175602669" style="zoom:50%;" /><p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>ϵ</mi></mrow><annotation encoding="application/x-tex">\epsilon</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathnormal">ϵ</span></span></span></span>-greedy算法非常精确地估计了最好文件的流行度，而那些不太流行的文件的流行度是粗略估计的。所以流行度越偏移，<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>ϵ</mi></mrow><annotation encoding="application/x-tex">\epsilon</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathnormal">ϵ</span></span></span></span>-greedy算法性能越好。</p><p>MCUCB算法和<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>ϵ</mi></mrow><annotation encoding="application/x-tex">\epsilon</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathnormal">ϵ</span></span></span></span>-greedy都依赖于观察用户的瞬时需求，如果sBS用户数量很低，则观察的准确率就会很低，并且两种算法学习得都会很慢。此时两种算法的性能就会降低5%，而当sBS有超过13个用户的时候，算法性能会保持稳定。</p><img src="https://i.loli.net/2021/05/09/BQES9gxk6CUmhnb.png" alt="image-20210509185047525" style="zoom:50%;" /><p>文件数量也会影响性能。当文件数量F偏小的时候，由于每次缓存内存会缓存约5%的文件，所以有一些流行文件不适合缓存，所以性能都会降低约5%</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 论文记录 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 学习 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>更新</title>
-      <link href="2021/05/07/Blog/"/>
-      <url>2021/05/07/Blog/</url>
-      
-        <content type="html"><![CDATA[<h1>重新搭建Blog</h1><h2 id="按顺序运行命令">按顺序运行命令</h2><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install -g hexo-cli</span><br></pre></td></tr></table></figure><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo init yymblog</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm i hexo-theme-butterfly</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-renderer-pug hexo-renderer-stylus --save</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install --save hexo-tag-aplayer</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-butterfly-douban --save</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm i --save hexo-wordcount</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm i --save hexo-generator-search</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm un hexo-renderer-marked --save</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm i hexo-renderer-markdown-it --save</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install @neilsustc/markdown-it-katex --save</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm i --save hexo-history-calendar</span><br></pre></td></tr></table></figure><p>所有下完后</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure><h1>更新</h1><h2 id="更新butterfly">更新butterfly</h2><p>在博客根目录下： npm update hexo-theme-butterfly</p><h2 id="更新douban">更新douban</h2><p>npm i hexo-butterfly-douban --update --save</p><h1>博客内容</h1><h2 id="新建文章">新建文章</h2><p>hexo  new **</p><p>或者：hexo new post <title></p><h2 id="部署文章">部署文章</h2><ol><li>hexo</li><li>sh <a href="http://local.sh">local.sh</a></li><li>sh <a href="http://deploy.sh">deploy.sh</a></li></ol>]]></content>
-      
-      
-      <categories>
-          
-          <category> hexo </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Git </tag>
+            <tag> 通信论文 </tag>
             
         </tags>
       
